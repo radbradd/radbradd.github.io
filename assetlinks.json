@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.iehp.memberportal",
+      "sha256_cert_fingerprints": [
+        "61:01:67:44:2F:15:FB:5D:C1:FF:8F:FC:24:2E:2A:AE:77:1B:19:05:26:DB:93:FF:B0:A4:5C:EB:6C:A3:CF:40"
+      ]
+    }
+  }
+]
