@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "69CQED4HEF .org.iehp.memberportal",
-        "paths": ["*"]
+        "paths": ["*"],
       }
     ]
   }
