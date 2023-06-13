@@ -1,11 +1,9 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "69CQED4HEF.org.iehp.memberportal",
-        "paths": ["*"]
-      }
-    ]
-  }
+	"applinks": {
+		"apps": [],
+		"details": [{
+			"appID": "69CQED4HEF.org.iehp.memberportal",
+			"paths": ["*"]
+		}]
+	}
 }
